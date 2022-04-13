@@ -4,7 +4,7 @@
 
 > Esse repositório foi criado para verificar o domínio nos comandos básicos de git e github 😄
 
-## 🤝 Aluno
+## 👨🏻‍💻 Aluno
 
 <table>
   <tr>
